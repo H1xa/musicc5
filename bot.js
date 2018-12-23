@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By | Rqmz ' `);
     console.log(`══════════ஜ۩۞۩ஜ════════════  `);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`5play | Last Music`,"http://twitch.tv/Rqmz Shop")
+client.user.setGame(`5play | Rqmz Music`,"http://twitch.tv/Rqmz Shop")
 client.user.setStatus("dnd")
 });
 
